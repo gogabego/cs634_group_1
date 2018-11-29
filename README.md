@@ -1,2 +1,2 @@
 # cs634_group_1
-Group repository for the CS634 Project
+Test files for the website group project. Djano and Bootstrap used. 
