@@ -1,6 +1,7 @@
 from django.contrib import admin
 from .models import Category, Product
 # Register your models here.
+#hey, this is new!
 
 class CategoryAdmin(admin.ModelAdmin):
     list_display = ['name', 'slug']
